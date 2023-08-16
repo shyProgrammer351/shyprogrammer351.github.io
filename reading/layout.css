@@ -16,6 +16,10 @@ input[type=text] {
 	text-align: center; 
 }
 
+#container {
+	position: absolute;
+}
+
 #titleBox {
 	position: absolute;
 	top: 0px;
@@ -42,7 +46,7 @@ input[type=text] {
 		font-size: 15px;
 }
 
-#container {
+#contentBox {
 	position: absolute;
 	top: 150px;
 	left: 250px;
@@ -50,7 +54,7 @@ input[type=text] {
 	border: 0px solid #bcbcbc;
 }
 
-#container pre {
+#contentBox pre {
 	width: 807px;
 	padding-left: 10px; 
 	line-height: 1.5; 
@@ -192,4 +196,3 @@ input[type=text] {
 	box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
 }
 </style>
-
