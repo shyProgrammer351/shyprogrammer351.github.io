@@ -18,6 +18,8 @@ input[type=text] {
 
 #container {
 	position: absolute;
+	top: 0px;
+	left: 0px;
 }
 
 #titleBox {
@@ -196,3 +198,4 @@ input[type=text] {
 	box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
 }
 </style>
+
