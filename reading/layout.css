@@ -45,7 +45,7 @@ input[type=text] {
 	left: 0px;
 	width: 250px;
 	padding-top: 20px;
-		font-size: 15px;
+	font-size: 15px;
 }
 
 #contentBox {
@@ -101,7 +101,9 @@ input[type=text] {
 	top: 200px;
 	left: 900px;
 	margin: 0px auto;
+	padding: 10px 10px 10px 10px;
 	border: 0px solid #bcbcbc;
+	background-color: white;
 }
 
 #outputBox {
